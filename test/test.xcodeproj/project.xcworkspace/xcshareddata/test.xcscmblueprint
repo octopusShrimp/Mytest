@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5D6F21749CA1CEC395AE2AA69C9E1F3E7BD05F98",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5D6F21749CA1CEC395AE2AA69C9E1F3E7BD05F98" : 0,
+    "8A3D214B0645F5FDED5945BC4BE853464746D0DA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7B9213FB-01BD-47A7-B389-72228B6589D2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5D6F21749CA1CEC395AE2AA69C9E1F3E7BD05F98" : "Mytest\/",
+    "8A3D214B0645F5FDED5945BC4BE853464746D0DA" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "test",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "test\/test.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/octopusShrimp\/Mytest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5D6F21749CA1CEC395AE2AA69C9E1F3E7BD05F98"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.2.253\/janezt\/IOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8A3D214B0645F5FDED5945BC4BE853464746D0DA"
+    }
+  ]
+}
