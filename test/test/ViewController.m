@@ -23,6 +23,7 @@
      NSLog(@"sda");
      NSLog(@"sda");
      NSLog(@"sda");
+    NSLog(@"sda");
 }
 
 - (void)didReceiveMemoryWarning {
