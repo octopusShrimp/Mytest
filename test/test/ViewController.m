@@ -18,6 +18,15 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"sda");
+<<<<<<< HEAD
+=======
+     NSLog(@"sda");
+     NSLog(@"sda");
+     NSLog(@"sda");
+     NSLog(@"sda");
+     NSLog(@"sda");
+    NSLog(@"sda");
+>>>>>>> mem2
 }
 
 - (void)didReceiveMemoryWarning {
